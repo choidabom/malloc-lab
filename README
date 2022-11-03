@@ -1,3 +1,21 @@
+[Malloc-lab 동적 메모리 할당기(Dynamic Memory Allocator) 이해 과정](https://bo5mi.tistory.com/164)
+
+목차
+
+1. Dynamic Memory Allocation을 하는 이유
+
+2. Dynamic Memory Allocator는 어떤 역할을 하기에 중요한가?
+
+3. Dynamic Memory Allocator는 어디에서 memory를 가져와서 할당해주고, 반납해주는가?
+
+4. 할당기와 가용리스트 확실히 하기 (명시적 vs 묵시적)
+
+5. Dynamic Memory Allocator를 만드는 이유 👩‍💻
+
+6. Dynamic Memory Allocator를 실제로 구현할 때 어떤 것들을 중요하게 고려해야하는가?
+
+7. Dynamic Memory Allocator 만들기
+
 #####################################################################
 # CS:APP Malloc Lab
 # Handout files for students
@@ -49,21 +67,3 @@ The -V option prints out helpful tracing and summary information.
 To get a list of the driver flags:
 
 	unix> mdriver -h
-	
-[Malloc-lab 동적 메모리 할당기(Dynamic Memory Allocator) 이해 과정](https://bo5mi.tistory.com/164)
-
-목차
-
-1. Dynamic Memory Allocation을 하는 이유
-
-2. Dynamic Memory Allocator는 어떤 역할을 하기에 중요한가?
-
-3. Dynamic Memory Allocator는 어디에서 memory를 가져와서 할당해주고, 반납해주는가?
-
-4. 할당기와 가용리스트 확실히 하기 (명시적 vs 묵시적)
-
-5. Dynamic Memory Allocator를 만드는 이유 👩‍💻
-
-6. Dynamic Memory Allocator를 실제로 구현할 때 어떤 것들을 중요하게 고려해야하는가?
-
-7. Dynamic Memory Allocator 만들기
