@@ -41,36 +41,6 @@ malloc을 C언어로 구현하면서, C언어 포인터의 개념, gdb 디버거
 
 </details>
 
-## TIL (Today I Learned)
-### 10.28 금
-
-- [메모리 영역(데이터 세그먼트) 이해](https://bo5mi.tistory.com/159)
-- [가상메모리 이해](https://bo5mi.tistory.com/161)
-- malloc-lab 과제 설명서 잘 읽고 이해하기 
-
-### 10.29 토
-
-- Do it C 메모리 할당 강의 1-2 (총 2시간 상당)
-- CMU 강의자료 19장 
-- CS:APP 9.9.1 ~ 9.9.12 정독 및 정리
-- implicit 방법 코드 구현 
-
-### 10.30 일
-
-- CMU 강의자료 20장 (garbage 컬렉션 전까지)
-- CS:APP 9.9.12 ~ 9.9.14 정독 및 정리
-- explicit, seglist, buddy system 방법 코드 구현 
-
-### 10.31 월
-- CMU 강의 자료 4, 11, 17장
-
-### 11.01 화
-- CSAPP 7장 링커(7.1, 7.4, 7.9, 그림 7.15), 8장 예외적인 제어 흐름 (특히 8.1, 8.5)
-
-### 11.02 수
-- Self-Test 💡
-
-
 ## Understanding Assignment 
 http://csapp.cs.cmu.edu/3e/malloclab.pdf (번역 참고: https://prodyou.tistory.com/21)
 ### 1. Introduction
